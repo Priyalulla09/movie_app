@@ -23,7 +23,13 @@ A Flutter-based movie application that uses the TMDB API to display trending mov
 
 ---
 
-## 📱 Screenshots
+## 📸 Screenshots
+
+![Home Screen](images/home.png)
+
+![Trending Movies](images/trending.png)
+
+![Movie Details](images/details.png)
 
 
 
