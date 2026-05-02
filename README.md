@@ -1,16 +1,34 @@
-# movie_app
+# 🎬 Flutter Movie App
 
-A new Flutter project.
+A Flutter-based movie application that uses the TMDB API to display trending movies, top-rated films, and popular TV shows.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔥 Trending Movies
+- ⭐ Top Rated Movies
+- 📺 Popular TV Shows
+- 🎯 Movie Detail Screen
+- 🌐 API Integration (TMDB)
+- ⚠️ Error Handling for null data and images
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- TMDB API
+
+---
+
+## 📱 Screenshots
+
+
+
+---
+
+## 📌 Note
+
+This project is built for learning and practicing Flutter development with real-world API integration.
